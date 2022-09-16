@@ -20,7 +20,9 @@ This project was developed during the RocketSeat's Next Level Week - eSports eve
 During the development of this project, the following techologies were used:
 
 - [React Native](https://reactnative.dev/)
+- [React Navigation](https://reactnavigation.org/)
 - [Expo](https://expo.dev/)
+- [Phosphor Icons](https://phosphoricons.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Project Configuration
@@ -62,6 +64,7 @@ The generated file will be located at ```android/app/build/outputs/bundle/releas
 * [Publishing to Apple App Store](https://reactnative.dev/docs/publishing-to-app-store)
 * [Rocketseat Docs | Ambiente React Native](https://react-native.rocketseat.dev/)
 * [Internacionalização em React Native](https://medium.com/reactbrasil/internacionaliza%C3%A7%C3%A3o-em-react-native-77fb1a56f8e9)
+* [Cannot use JSX unless the '--jsx' flag is provided](https://stackoverflow.com/questions/50432556/cannot-use-jsx-unless-the-jsx-flag-is-provided)
 
 ## 📄 License
 

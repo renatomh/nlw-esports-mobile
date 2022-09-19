@@ -65,6 +65,8 @@ The generated file will be located at ```android/app/build/outputs/bundle/releas
 * [Rocketseat Docs | Ambiente React Native](https://react-native.rocketseat.dev/)
 * [Internacionalização em React Native](https://medium.com/reactbrasil/internacionaliza%C3%A7%C3%A3o-em-react-native-77fb1a56f8e9)
 * [Cannot use JSX unless the '--jsx' flag is provided](https://stackoverflow.com/questions/50432556/cannot-use-jsx-unless-the-jsx-flag-is-provided)
+* [React Native Init vs Expo 2022: What Are the Differences?](https://fulcrum.rocks/blog/react-native-init-vs-expo)
+* [What is the difference between Expo and React Native?](https://stackoverflow.com/a/49324689)
 
 ## 📄 License
 

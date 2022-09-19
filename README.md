@@ -11,9 +11,13 @@ This project was developed during the RocketSeat's Next Level Week - eSports eve
 * Available games listing;
 * Connecting to other players;
 
+<p align="center"><img src=".github/sample.gif" alt="notification" /></p>
+
 ## 💹 Extras
 
-*
+* Added push notifications;
+
+<p align="center"><img src=".github/notification.gif" alt="notification" /></p>
 
 ## 🛠 Technologies
 
@@ -33,10 +37,6 @@ During the development of this project, the following techologies were used:
 $ yarn
 ```
 
-## 🌐 Setting up config files
-
-...
-
 ## ⏯️ Running
 
 To run the project in a development environment, execute the following command on the root directory.
@@ -44,20 +44,6 @@ To run the project in a development environment, execute the following command o
 ```bash
 $ yarn start
 ```
-
-## 🔨 Project's *Build* for *Deploy*
-
-In order to publish the app for the app stores of different kinds of devices (Play Store, App Store), there are some steps to be done.
-
-### Android
-Aside from [configuring for app publishing with React Native](https://reactnative.dev/docs/signed-apk-android), we should execute the following commands to generate the *.aab* (Android App Bundle) file:
-
-```bash
-$ cd android
-$ ./gradlew bundleRelease
-```
-
-The generated file will be located at ```android/app/build/outputs/bundle/release/```.
 
 ### Documentation:
 * [Publishing to Google Play Store](https://reactnative.dev/docs/signed-apk-android)
@@ -67,6 +53,8 @@ The generated file will be located at ```android/app/build/outputs/bundle/releas
 * [Cannot use JSX unless the '--jsx' flag is provided](https://stackoverflow.com/questions/50432556/cannot-use-jsx-unless-the-jsx-flag-is-provided)
 * [React Native Init vs Expo 2022: What Are the Differences?](https://fulcrum.rocks/blog/react-native-init-vs-expo)
 * [What is the difference between Expo and React Native?](https://stackoverflow.com/a/49324689)
+* [Sending Notifications with Expo's Push API](https://docs.expo.dev/push-notifications/sending-notifications/)
+* [Push Notification Tool - Expo](https://expo.dev/notifications)
 
 ## 📄 License
 
